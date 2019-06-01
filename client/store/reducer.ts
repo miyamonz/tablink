@@ -1,5 +1,5 @@
 export const initialState = {
-  tags: ["doing", "done"]
+  comment: "hello world!"
 };
 
 export const reducer = (state = {}, action) => {
